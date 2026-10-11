@@ -123,7 +123,7 @@ export function Header({
           className="btn btn-secondary btn-sm"
           title="View code-generator-library on npm"
         >
-          <span>npm v1.0.3</span>
+          <span>npm v1.0.5</span>
           <ExternalLink size={13} />
         </a>
 

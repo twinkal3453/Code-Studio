@@ -5,7 +5,7 @@ An elegant, modern, zero-dependency QR Code and Code 128 Barcode generator web a
 ![Next.js](https://img.shields.io/badge/Next.js-16+-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript)
 ![License](https://img.shields.io/badge/License-ISC-green?style=flat-square)
-![code-generator-library](https://img.shields.io/badge/code--generator--library-v1.0.3-violet?style=flat-square)
+![code-generator-library](https://img.shields.io/badge/code--generator--library-v1.0.5-violet?style=flat-square)
 
 ---
 
